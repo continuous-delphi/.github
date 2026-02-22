@@ -1,6 +1,6 @@
 # Continuous-Delphi
 
-If your Delphi application has been running for 15 years and still generates revenue, the answer is not a rewrite. The answer is improving engineering discipline applied incrementally to what you already have. That is what Continuous-Delphi is for.
+If your Delphi application has been running for 15 years and still generates revenue, the answer is not a rewrite. The answer is improving engineering discipline incrementally within what you already have. That is what Continuous-Delphi is for.
 
 Continuous-Delphi is a practical collection of modernization guidance, tooling examples, and reference projects built specifically for long-lived Delphi systems. It is not about abandoning VCL, rewriting everything in a new stack, or pretending your existing code has no value. It is about improving build reliability, testing practices, code quality, security posture, and architectural structure step by step.
 
