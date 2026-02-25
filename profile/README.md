@@ -1,10 +1,8 @@
 # Continuous-Delphi
 
-If your Delphi application has been running for 15 years and still generates revenue, the answer is not a rewrite. The answer is improving engineering discipline incrementally within what you already have. That is what Continuous-Delphi is for.
+Continuous-Delphi is a new initiative that will attempt to be a practical collection of modernization guidance, tooling examples, and reference projects built specifically for long-lived Delphi systems. It is not about abandoning VCL, rewriting everything in a new stack, or pretending your existing code has no value. It is about improving build reliability, testing practices, code quality, security posture, and architectural structure step by step.
 
-Continuous-Delphi is a practical collection of modernization guidance, tooling examples, and reference projects built specifically for long-lived Delphi systems. It is not about abandoning VCL, rewriting everything in a new stack, or pretending your existing code has no value. It is about improving build reliability, testing practices, code quality, security posture, and architectural structure step by step.
-
-We focus on what is realistic in a Delphi shop. Controlled build environments. Repeatable CI using self-hosted runners. Unit testing where it delivers real protection. Static analysis tools that actually support Delphi. Incremental UI improvements instead of disruptive redesigns. Delphi has real tooling gaps compared to larger ecosystems - we acknowledge them, document practical workarounds, and avoid exaggerating strengths or ignoring weaknesses.
+We will focus on what is realistic in a Delphi shop. Controlled build environments. Repeatable CI using self-hosted runners. Unit testing where it delivers real protection. Static analysis tools that actually support Delphi. Incremental UI improvements instead of disruptive redesigns. Delphi has real tooling gaps compared to larger ecosystems - we acknowledge them, document practical workarounds, and avoid exaggerating strengths or ignoring weaknesses.
 
 But this is not only about maintaining what already exists.
 
@@ -35,7 +33,7 @@ Continuous-Delphi exists to reduce risk, protect revenue, and raise engineering 
 
 ## Get Involved
 
-Continuous-Delphi is built by Delphi MVPs and practitioners who have spent 
+Continuous-Delphi is being built by Delphi MVPs and practitioners who have spent 
 years maintaining and modernizing real Delphi systems. If that describes you, 
 your experience belongs here.
 
